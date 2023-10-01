@@ -1,5 +1,5 @@
 # leetcode
-All my leetcode solutions
+All leetcode solutions
 
 
 ### Daily Challenge 
